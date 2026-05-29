@@ -28,7 +28,7 @@
 
 ### 🌸 featured project
 
-**[Project Ellin](https://github.com/YOUR_USERNAME/project-ellin)**
+**[Project Ellin(in dev)**
 > A productivity app for students — study planner, timer, and focus tools to help you get things done.
 `C#` · `Unity` · `in development`
 
