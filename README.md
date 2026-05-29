@@ -1,3 +1,4 @@
+![Banner](https://github.com/[your-username]/[your-username]/blob/main/your-image-filename.png?raw=true)
 <div align="center">
 
 # Nat Sriwaleerat
