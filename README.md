@@ -8,7 +8,7 @@
 
 ---
 
-### 👩‍💻 about me
+### 👨‍💻 about mee!
 
 - 🎓 1st year Computer Science student at university
 - 🎮 indie game developer — currently building **Project Ellin**
@@ -41,5 +41,5 @@
 ---
 
 <div align="center">
-<sub>made with quiet focus ✦</sub>
+<sub>Trust in Process ✦</sub>
 </div>
