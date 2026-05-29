@@ -1,4 +1,4 @@
-![Banner](https://github.com/[your-username]/[your-username]/blob/main/your-image-filename.png?raw=true)
+![Banner](https://github.com/Evelynnet/Evelynnet/blob/main/WEL.jpg)
 <div align="center">
 
 # Nat Sriwaleerat
